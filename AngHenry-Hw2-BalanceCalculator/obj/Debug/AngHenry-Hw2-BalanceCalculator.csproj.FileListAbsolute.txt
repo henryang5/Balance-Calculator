@@ -1,0 +1,27 @@
+\\myhome.spu.edu\users\angh\documents\visual studio 2015\Projects\AngHenry-Hw2-BalanceCalculator\AngHenry-Hw2-BalanceCalculator\bin\Debug\AngHenry-Hw2-BalanceCalculator.exe.config
+\\myhome.spu.edu\users\angh\documents\visual studio 2015\Projects\AngHenry-Hw2-BalanceCalculator\AngHenry-Hw2-BalanceCalculator\bin\Debug\AngHenry-Hw2-BalanceCalculator.exe
+\\myhome.spu.edu\users\angh\documents\visual studio 2015\Projects\AngHenry-Hw2-BalanceCalculator\AngHenry-Hw2-BalanceCalculator\bin\Debug\AngHenry-Hw2-BalanceCalculator.pdb
+\\myhome.spu.edu\users\angh\documents\visual studio 2015\Projects\AngHenry-Hw2-BalanceCalculator\AngHenry-Hw2-BalanceCalculator\obj\Debug\AngHenry-Hw2-BalanceCalculator.csprojResolveAssemblyReference.cache
+\\myhome.spu.edu\users\angh\documents\visual studio 2015\Projects\AngHenry-Hw2-BalanceCalculator\AngHenry-Hw2-BalanceCalculator\obj\Debug\AngHenry_Hw2_BalanceCalculator.Form1.resources
+\\myhome.spu.edu\users\angh\documents\visual studio 2015\Projects\AngHenry-Hw2-BalanceCalculator\AngHenry-Hw2-BalanceCalculator\obj\Debug\AngHenry_Hw2_BalanceCalculator.Properties.Resources.resources
+\\myhome.spu.edu\users\angh\documents\visual studio 2015\Projects\AngHenry-Hw2-BalanceCalculator\AngHenry-Hw2-BalanceCalculator\obj\Debug\AngHenry-Hw2-BalanceCalculator.csproj.GenerateResource.Cache
+\\myhome.spu.edu\users\angh\documents\visual studio 2015\Projects\AngHenry-Hw2-BalanceCalculator\AngHenry-Hw2-BalanceCalculator\obj\Debug\AngHenry-Hw2-BalanceCalculator.exe
+\\myhome.spu.edu\users\angh\documents\visual studio 2015\Projects\AngHenry-Hw2-BalanceCalculator\AngHenry-Hw2-BalanceCalculator\obj\Debug\AngHenry-Hw2-BalanceCalculator.pdb
+F:\CSC 3220\AngHenry-Hw2-BalanceCalculator\AngHenry-Hw2-BalanceCalculator\bin\Debug\AngHenry-Hw2-BalanceCalculator.exe.config
+F:\CSC 3220\AngHenry-Hw2-BalanceCalculator\AngHenry-Hw2-BalanceCalculator\obj\Debug\AngHenry-Hw2-BalanceCalculator.exe
+F:\CSC 3220\AngHenry-Hw2-BalanceCalculator\AngHenry-Hw2-BalanceCalculator\obj\Debug\AngHenry-Hw2-BalanceCalculator.pdb
+F:\CSC 3220\AngHenry-Hw2-BalanceCalculator\AngHenry-Hw2-BalanceCalculator\bin\Debug\AngHenry-Hw2-BalanceCalculator.exe
+F:\CSC 3220\AngHenry-Hw2-BalanceCalculator\AngHenry-Hw2-BalanceCalculator\bin\Debug\AngHenry-Hw2-BalanceCalculator.pdb
+F:\CSC 3220\AngHenry-Hw2-BalanceCalculator\AngHenry-Hw2-BalanceCalculator\obj\Debug\AngHenry-Hw2-BalanceCalculator.csprojResolveAssemblyReference.cache
+F:\CSC 3220\AngHenry-Hw2-BalanceCalculator\AngHenry-Hw2-BalanceCalculator\obj\Debug\AngHenry_Hw2_BalanceCalculator.Properties.Resources.resources
+F:\CSC 3220\AngHenry-Hw2-BalanceCalculator\AngHenry-Hw2-BalanceCalculator\obj\Debug\AngHenry-Hw2-BalanceCalculator.csproj.GenerateResource.Cache
+F:\CSC 3220\AngHenry-Hw2-BalanceCalculator\AngHenry-Hw2-BalanceCalculator\obj\Debug\AngHenry_Hw2_BalanceCalculator.balanceCalculatorForm.resources
+E:\CSC 3220\AngHenry-Hw2-BalanceCalculator\AngHenry-Hw2-BalanceCalculator\bin\Debug\AngHenry-Hw2-BalanceCalculator.exe.config
+E:\CSC 3220\AngHenry-Hw2-BalanceCalculator\AngHenry-Hw2-BalanceCalculator\obj\Debug\AngHenry-Hw2-BalanceCalculator.exe
+E:\CSC 3220\AngHenry-Hw2-BalanceCalculator\AngHenry-Hw2-BalanceCalculator\obj\Debug\AngHenry-Hw2-BalanceCalculator.pdb
+E:\CSC 3220\AngHenry-Hw2-BalanceCalculator\AngHenry-Hw2-BalanceCalculator\bin\Debug\AngHenry-Hw2-BalanceCalculator.exe
+E:\CSC 3220\AngHenry-Hw2-BalanceCalculator\AngHenry-Hw2-BalanceCalculator\bin\Debug\AngHenry-Hw2-BalanceCalculator.pdb
+E:\CSC 3220\AngHenry-Hw2-BalanceCalculator\AngHenry-Hw2-BalanceCalculator\obj\Debug\AngHenry-Hw2-BalanceCalculator.csprojResolveAssemblyReference.cache
+E:\CSC 3220\AngHenry-Hw2-BalanceCalculator\AngHenry-Hw2-BalanceCalculator\obj\Debug\AngHenry_Hw2_BalanceCalculator.balanceCalculatorForm.resources
+E:\CSC 3220\AngHenry-Hw2-BalanceCalculator\AngHenry-Hw2-BalanceCalculator\obj\Debug\AngHenry_Hw2_BalanceCalculator.Properties.Resources.resources
+E:\CSC 3220\AngHenry-Hw2-BalanceCalculator\AngHenry-Hw2-BalanceCalculator\obj\Debug\AngHenry-Hw2-BalanceCalculator.csproj.GenerateResource.Cache
